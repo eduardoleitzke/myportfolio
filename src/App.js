@@ -17,9 +17,6 @@ function App() {
   window.addEventListener('scroll', () => {
     const scrollValue = document.documentElement.scrollTop
     const scrollMax = document.documentElement.scrollHeight
-    console.log(main_ref.current.clientHeight)
-    console.log('scrollvalue = ' + scrollValue)
-    console.log('scrollmx/7 = ' + scrollMax)
     if (scrollValue > 0 && scrollValue < scrollMax / 7) {
       setSobre(true)
       setProjetos(false)
