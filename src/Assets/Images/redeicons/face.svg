@@ -1,0 +1,18 @@
+<svg width="17" height="32" version="1.1" viewBox="0 0 17 32" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter117600" x="-1.6944" y="-.9" width="4.3888" height="2.8" color-interpolation-filters="sRGB">
+   <feGaussianBlur in="SourceGraphic" result="result0" stdDeviation="6"/>
+   <feDiffuseLighting lighting-color="rgb(255,255,255)" result="result5" surfaceScale="4">
+    <feDistantLight azimuth="235" elevation="45"/>
+   </feDiffuseLighting>
+   <feComposite in="result5" in2="SourceGraphic" k1="1.4" operator="arithmetic" result="fbSourceGraphic"/>
+   <feGaussianBlur in="fbSourceGraphic" result="result0" stdDeviation="6"/>
+   <feSpecularLighting lighting-color="rgb(255,255,255)" in="result0" result="result1" specularExponent="25" surfaceScale="4">
+    <feDistantLight azimuth="235" elevation="45"/>
+   </feSpecularLighting>
+   <feComposite in="fbSourceGraphic" in2="result1" k2="1" k3="1" operator="arithmetic" result="result4"/>
+   <feComposite in="result4" in2="SourceGraphic" operator="in" result="result2"/>
+  </filter>
+ </defs>
+ <path id="Icon_awesome-facebook-f" transform="translate(-1.609)" d="M17.5,18l.882-5.791H12.865V8.451A2.884,2.884,0,0,1,16.1,5.322h2.506V.391A30.318,30.318,0,0,0,14.161,0C9.622,0,6.655,2.774,6.655,7.8v4.414H1.609V18H6.655V32h6.21V18Z" fill="#fff" filter="url(#filter117600)" data-name="Icon awesome-facebook-f"/>
+</svg>
