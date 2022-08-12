@@ -1,0 +1,18 @@
+<svg width="32.001" height="32" version="1.1" viewBox="0 0 32.001 32" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter124644" x="-.89899" y="-.90006" width="2.798" height="2.8001" color-interpolation-filters="sRGB">
+   <feGaussianBlur in="SourceGraphic" result="result0" stdDeviation="6"/>
+   <feDiffuseLighting lighting-color="rgb(255,255,255)" result="result5" surfaceScale="4">
+    <feDistantLight azimuth="235" elevation="45"/>
+   </feDiffuseLighting>
+   <feComposite in="result5" in2="SourceGraphic" k1="1.4" operator="arithmetic" result="fbSourceGraphic"/>
+   <feGaussianBlur in="fbSourceGraphic" result="result0" stdDeviation="6"/>
+   <feSpecularLighting lighting-color="rgb(255,255,255)" in="result0" result="result1" specularExponent="25" surfaceScale="4">
+    <feDistantLight azimuth="235" elevation="45"/>
+   </feSpecularLighting>
+   <feComposite in="fbSourceGraphic" in2="result1" k2="1" k3="1" operator="arithmetic" result="result4"/>
+   <feComposite in="result4" in2="SourceGraphic" operator="in" result="result2"/>
+  </filter>
+ </defs>
+ <path id="Icon_awesome-linkedin-in" transform="translate(0 -.001)" d="M7.163,32H.529V10.636H7.163ZM3.842,7.722A3.86,3.86,0,1,1,7.684,3.843,3.875,3.875,0,0,1,3.842,7.722ZM31.994,32h-6.62V21.6c0-2.479-.05-5.657-3.449-5.657-3.449,0-3.978,2.693-3.978,5.479V32H11.319V10.636h6.363V13.55h.093a6.971,6.971,0,0,1,6.277-3.45C30.766,10.1,32,14.522,32,20.265V32Z" fill="#fff" filter="url(#filter124644)" data-name="Icon awesome-linkedin-in"/>
+</svg>
