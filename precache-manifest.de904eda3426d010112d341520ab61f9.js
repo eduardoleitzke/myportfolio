@@ -84,16 +84,16 @@ self.__precacheManifest = [
     "url": "/myportfolio/static/media/fundo.23752fc6.png"
   },
   {
-    "revision": "2a03f068216dde85cb408ecff1f8bfda",
-    "url": "/myportfolio/static/media/Eirian.2a03f068.ttf"
-  },
-  {
     "revision": "cdfe47b31e9184a55cf02eef1baf7240",
     "url": "/myportfolio/static/media/Azonix.cdfe47b3.otf"
   },
   {
     "revision": "9bbaa8be539d9ccab9874c329d0eb9c6",
     "url": "/myportfolio/static/media/aqua.9bbaa8be.ttf"
+  },
+  {
+    "revision": "2a03f068216dde85cb408ecff1f8bfda",
+    "url": "/myportfolio/static/media/Eirian.2a03f068.ttf"
   },
   {
     "revision": "97456e3ebaaeaa4be3247dc7677700f2",
