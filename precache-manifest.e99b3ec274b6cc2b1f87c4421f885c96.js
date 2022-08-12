@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "9b274ab97fb1d0f88d50",
-    "url": "/myportfolio/static/css/main.5750376f.chunk.css"
+    "revision": "a422113a35bcfe0a7e2c",
+    "url": "/myportfolio/static/css/main.69bc32ff.chunk.css"
   },
   {
-    "revision": "9b274ab97fb1d0f88d50",
-    "url": "/myportfolio/static/js/main.9b274ab9.chunk.js"
+    "revision": "a422113a35bcfe0a7e2c",
+    "url": "/myportfolio/static/js/main.a422113a.chunk.js"
   },
   {
     "revision": "836e4380fe3f7816a983",
@@ -84,6 +84,10 @@ self.__precacheManifest = [
     "url": "/myportfolio/static/media/fundo.23752fc6.png"
   },
   {
+    "revision": "2a03f068216dde85cb408ecff1f8bfda",
+    "url": "/myportfolio/static/media/Eirian.2a03f068.ttf"
+  },
+  {
     "revision": "cdfe47b31e9184a55cf02eef1baf7240",
     "url": "/myportfolio/static/media/Azonix.cdfe47b3.otf"
   },
@@ -92,23 +96,19 @@ self.__precacheManifest = [
     "url": "/myportfolio/static/media/aqua.9bbaa8be.ttf"
   },
   {
-    "revision": "2a03f068216dde85cb408ecff1f8bfda",
-    "url": "/myportfolio/static/media/Eirian.2a03f068.ttf"
+    "revision": "97456e3ebaaeaa4be3247dc7677700f2",
+    "url": "/myportfolio/static/media/Leoscar Sans Serif.97456e3e.ttf"
   },
   {
     "revision": "b8cdafeb63e201944f5d0ccd9255c312",
     "url": "/myportfolio/static/media/desenho.b8cdafeb.svg"
   },
   {
-    "revision": "97456e3ebaaeaa4be3247dc7677700f2",
-    "url": "/myportfolio/static/media/Leoscar Sans Serif.97456e3e.ttf"
-  },
-  {
     "revision": "40f2d5edb0668f96480f1a93abef0455",
     "url": "/myportfolio/static/media/moldura.40f2d5ed.svg"
   },
   {
-    "revision": "fec4ced4fb450434317d5652d5ea7c23",
+    "revision": "84c848897a09155de9133ac611d3ff62",
     "url": "/myportfolio/index.html"
   }
 ];
