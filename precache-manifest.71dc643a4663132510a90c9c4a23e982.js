@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "7694e202f46edaa8e425",
-    "url": "/myportfolio/static/css/main.b152f072.chunk.css"
+    "revision": "9b274ab97fb1d0f88d50",
+    "url": "/myportfolio/static/css/main.5750376f.chunk.css"
   },
   {
-    "revision": "7694e202f46edaa8e425",
-    "url": "/myportfolio/static/js/main.7694e202.chunk.js"
+    "revision": "9b274ab97fb1d0f88d50",
+    "url": "/myportfolio/static/js/main.9b274ab9.chunk.js"
   },
   {
     "revision": "836e4380fe3f7816a983",
@@ -88,10 +88,6 @@ self.__precacheManifest = [
     "url": "/myportfolio/static/media/Azonix.cdfe47b3.otf"
   },
   {
-    "revision": "97456e3ebaaeaa4be3247dc7677700f2",
-    "url": "/myportfolio/static/media/Leoscar Sans Serif.97456e3e.ttf"
-  },
-  {
     "revision": "9bbaa8be539d9ccab9874c329d0eb9c6",
     "url": "/myportfolio/static/media/aqua.9bbaa8be.ttf"
   },
@@ -104,11 +100,15 @@ self.__precacheManifest = [
     "url": "/myportfolio/static/media/desenho.b8cdafeb.svg"
   },
   {
+    "revision": "97456e3ebaaeaa4be3247dc7677700f2",
+    "url": "/myportfolio/static/media/Leoscar Sans Serif.97456e3e.ttf"
+  },
+  {
     "revision": "40f2d5edb0668f96480f1a93abef0455",
     "url": "/myportfolio/static/media/moldura.40f2d5ed.svg"
   },
   {
-    "revision": "e09e161b287c7bd3784561de1f0629e2",
+    "revision": "fec4ced4fb450434317d5652d5ea7c23",
     "url": "/myportfolio/index.html"
   }
 ];

@@ -1,7 +1,7 @@
 {
-  "main.css": "/myportfolio/static/css/main.b152f072.chunk.css",
-  "main.js": "/myportfolio/static/js/main.7694e202.chunk.js",
-  "main.js.map": "/myportfolio/static/js/main.7694e202.chunk.js.map",
+  "main.css": "/myportfolio/static/css/main.5750376f.chunk.css",
+  "main.js": "/myportfolio/static/js/main.9b274ab9.chunk.js",
+  "main.js.map": "/myportfolio/static/js/main.9b274ab9.chunk.js.map",
   "static/js/1.836e4380.chunk.js": "/myportfolio/static/js/1.836e4380.chunk.js",
   "static/js/1.836e4380.chunk.js.map": "/myportfolio/static/js/1.836e4380.chunk.js.map",
   "static/js/2.f1d33015.chunk.js": "/myportfolio/static/js/2.f1d33015.chunk.js",
@@ -23,10 +23,10 @@
   "static/media/linkedin.svg": "/myportfolio/static/media/linkedin.493309a8.svg",
   "static/media/whatsapp.svg": "/myportfolio/static/media/whatsapp.72e9d9ff.svg",
   "static/media/email.svg": "/myportfolio/static/media/email.0e79ab0e.svg",
-  "static/media/style.css": "/myportfolio/static/media/desenho.b8cdafeb.svg",
+  "static/media/style.css": "/myportfolio/static/media/Leoscar Sans Serif.97456e3e.ttf",
   "static/media/moldura.svg": "/myportfolio/static/media/moldura.40f2d5ed.svg",
-  "static/css/main.b152f072.chunk.css.map": "/myportfolio/static/css/main.b152f072.chunk.css.map",
+  "static/css/main.5750376f.chunk.css.map": "/myportfolio/static/css/main.5750376f.chunk.css.map",
   "index.html": "/myportfolio/index.html",
-  "precache-manifest.9485d5d035ddf01922aa8c8b1e0d490f.js": "/myportfolio/precache-manifest.9485d5d035ddf01922aa8c8b1e0d490f.js",
+  "precache-manifest.71dc643a4663132510a90c9c4a23e982.js": "/myportfolio/precache-manifest.71dc643a4663132510a90c9c4a23e982.js",
   "service-worker.js": "/myportfolio/service-worker.js"
 }
